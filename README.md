@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Output
+https://monk645.github.io/Class-24-Classes-and-Objects/index.html
